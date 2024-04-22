@@ -1,0 +1,10 @@
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\Calculadora de Viajes.exe.config
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\Calculadora de Viajes.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\Calculadora de Viajes.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora de Viajes.csproj.AssemblyReference.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora_de_Viajes.Form1.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora_de_Viajes.Properties.Resources.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora de Viajes.csproj.GenerateResource.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora de Viajes.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora de Viajes.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\Calculadora de Viajes.pdb

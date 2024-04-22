@@ -1,0 +1,20 @@
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\bin\Debug\Combustible.exe.config
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\bin\Debug\Combustible.exe
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\bin\Debug\Combustible.pdb
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.csproj.AssemblyReference.cache
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.Form1.resources
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.Properties.Resources.resources
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.csproj.GenerateResource.cache
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.exe
+C:\Users\CELESTE ORE\source\repos\Combustible\Combustible\obj\Debug\Combustible.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\bin\Debug\Combustible.exe.config
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\bin\Debug\Combustible.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\bin\Debug\Combustible.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.csproj.AssemblyReference.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.Form1.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.Properties.Resources.resources
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.csproj.GenerateResource.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.exe
+C:\Users\CELESTE ORE\Documents\Semestre 3\PROGRA I\Windows Form 1\Combustible\Combustible\obj\Debug\Combustible.pdb
